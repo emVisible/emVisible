@@ -41,7 +41,6 @@
     <img src="https://img.shields.io/badge/MySQL-MySQL?style=for-the-badge&logo=MySQL&logoColor=%23f7f1e3&color=%236a89cc"/>
     <img src="https://img.shields.io/badge/Prisma-Prisma?style=for-the-badge&logo=prisma&logoColor=%23f7f1e3&color=%23596275"/>
     <img src="https://img.shields.io/badge/Swagger-Swagger?style=for-the-badge&logo=swagger&logoColor=%23f7f1e3&color=%237bed9f"/>
-    <img src=""/>
 </div>
 <div align="center">
     <img src="https://img.shields.io/badge/Postman-Postman?style=for-the-badge&logo=postman&logoColor=%23f7f1e3&color=%23e77f67"/>
@@ -49,7 +48,6 @@
     <img src="https://img.shields.io/badge/Git-Git?style=for-the-badge&logo=git&logoColor=%23f7f1e3&color=%23ff7f50"/>
     <img src="https://img.shields.io/badge/Docker-Docker?style=for-the-badge&logo=docker&logoColor=%23f7f1e3&color=%2370a1ff"/>
     <img src="https://img.shields.io/badge/GitHub-GitHub?style=for-the-badge&logo=github&logoColor=%23f7f1e3&color=%23596275"/>
-    <img src=""/>
     <img src="https://img.shields.io/badge/VIM-VIM?style=for-the-badge&logo=vim&logoColor=%23f7f1e3&color=%2378e08f">
     <img src="https://img.shields.io/badge/UE-UE?style=for-the-badge&logo=unrealengine&logoColor=%23f7f1e3&color=%23596275"/>
 </div>
