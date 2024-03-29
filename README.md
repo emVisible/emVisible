@@ -74,5 +74,8 @@
       <li>🕹️ Hobby: Fitness, Badminton, Game Production && Play, Video-Record, History, Stoicism...We can talk about almost everything!</li>
       <li>🏠 Status: I'm currently working as an intern for a company that make RPA in Hangzhou, frontend.</li>
   </section>
+  <section align="center">
+    <img src="/_gallery/days.gif"></img>
+  </section>
 </article>
 
