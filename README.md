@@ -70,10 +70,14 @@
     <ul>
       <li>💻 Tech-Stack: Full stack software engineer. My backend language are Node and Python.</li>
       <li>✉️ Email: 1619346963@qq.com You can email and communicate with me, no matter what the discussion!</li>
-      <li>✨ Site: Building... Expected to go live in June!</li>
-      <li>✨ Doc Site: <a href="https://em-intact.vercel.app/">to my doc(Maybe need net proxy)</a></li>
+      <li>✨ Site: Building... Expected to go live in July!</li>
+      <li>✨ Doc Site: <a href="https://em-intact.vercel.app/">to my doc(Recommned)</a>(Maybe need net proxy)</li>
+      console.log("🚀 ~ Recommned:", Recommned)
       <li>🕹️ Hobby: Fitness, Badminton, Game Production && Play, Video-Record, History, Stoicism...We can talk about almost everything!</li>
-      <li>🏠 Status: I'm currently working as an intern for a company that make RPA in Hangzhou, frontend.</li>
+      <li>
+        🏢Experience: I worked as an intern in the front end development of a software company doing RPA in Hangzhou
+      </li>
+      <li>🏠 Status: I'm currently working for myself.</li>
   </section>
   <picture>
     <img width="100%" src="./_gallery/days.gif"></img>
