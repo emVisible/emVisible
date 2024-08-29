@@ -1,0 +1,16 @@
+article section {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+article section h3 {
+}
+
+article section div {
+  margin: 32px;
+  flex: 1;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
