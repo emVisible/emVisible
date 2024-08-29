@@ -1,6 +1,21 @@
-<head>
-    <link rel="stylesheet" href="./style.css">
-</head>
+<style>
+article section {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+article section h3 {
+}
+
+article section div {
+  margin: 32px;
+  flex: 1;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+</style>
 
 <p align="center">
   <h1 height="200px" align="center">
@@ -45,7 +60,6 @@
       <img src="https://img.shields.io/badge/Sanic-Sanic?style=for-the-badge&logo=sanic&logoColor=%23f7f1e3&color=%23ff6b81"/>
       <img src="https://img.shields.io/badge/langchain-langchain?style=for-the-badge&logo=langchain&logoColor=%23FFFFFF&color=%237a7374"/>
       <img src="https://img.shields.io/badge/xinference-xinference?style=for-the-badge&logo=xinference&logoColor=%23FFFFFF&color=%2374759b"/>
-      <img src=""/>
       <img src="https://img.shields.io/badge/SQLAlchemy-SQLAlchemy?style=for-the-badge&logo=sqlalchemy&logoColor=%23f7f1e3&color=%23C86060"/>
       <img src="https://img.shields.io/badge/Pydantic-Pydantic?style=for-the-badge&logo=pydantic&logoColor=%23f7f1e3&color=%23f8a5c2"/>
       <img src="https://img.shields.io/badge/Scrapy-Scrapy?style=for-the-badge&logo=scrapy&logoColor=%23f7f1e3&color=%2360A839"/>
