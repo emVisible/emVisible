@@ -1,12 +1,24 @@
 <p align="center">
   <h1 height="200px" align="center">
-    Hi, i'm emVisible-YangZeHang
+    <p>Welcome</p>
     <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">
   </h1>
    <p align="center">💻 Fullstack developer from Hangzhou, China 💻</p>
 </p>
 
 <article>
+  <section>
+    <h3>AI</h3>
+      <div>
+        <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" />
+        <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenCode-222222?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+        <img src="https://img.shields.io/badge/ComfyUI-FF6B35?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Stable%20Diffusion-7C3AED?style=for-the-badge" />
+      </div>
+  </section>
   <section>
     <h3>FrontEnd</h3>
     <div>
@@ -81,14 +93,12 @@
   <section>
     <h2>About me😎</h2>
     <ul>
-      <li>✉️ Email: 1619346963@qq.com You can email and communicate with me, with anything</li>
       <li>💻 Tech-Stack: Full stack software engineer, mainly JavaScript and Python</li>
-      <li>✨ Doc Lib Site: Under constant maintenance. <a href="https://em-intact.vercel.app/">into my doc lib</a> ( need proxy if in China )</li>
-      <li>
-        🏢 Experience: I did a front-end development internship in Hangzhou, China for a software company that does RPA
-      </li>
       <li>🏠 Status: I'm currently living for myself, also you can contact with me</li>
-      <li>🕹️ Hobby: Fitness, Game, Stoicism, photography, making video and so on</li>
+      <li>✨ Doc Lib Site: Under constant maintenance. <a href="https://em-intact.vercel.app/">into my doc lib</a> ( need proxy if in China )</li>
+      <li>🏢 Experience: I did development in Hangzhou for some software companies</li>
+      <li>🕹️ Hobby: Coding, Fitness, Game, photography, making video and so on</li>
+      <li>✉️ I'm trying to live a stoicism life</li>
   </section>
   <picture>
     <img width="100%" src="./_gallery/days.gif"></img>
