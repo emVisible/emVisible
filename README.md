@@ -95,7 +95,7 @@
     <ul>
       <li>💻 Tech-Stack: Full stack software engineer, mainly JavaScript and Python</li>
       <li>🏠 Status: I'm currently living for myself, also you can contact with me</li>
-      <li>✨ Doc Lib Site: Under constant maintenance. <a href="https://em-intact.vercel.app/">into my doc lib</a> ( need proxy if in China )</li>
+      <li>✨ Doc Lib Site: Under constant maintenance. <a href="https://emvisible.vercel.app/">into my site</a> ( need proxy if in China )</li>
       <li>🏢 Experience: I did development in Hangzhou for some software companies</li>
       <li>🕹️ Hobby: Coding, Fitness, Game, photography, making video and so on</li>
       <li>✉️ I'm trying to live a stoicism life</li>
